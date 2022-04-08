@@ -9,3 +9,10 @@ The project contains multiple dummy data which includes dummy movies, dummy peop
 
 ## Database Schema
 ![Database UML](https://github.com/borneelphukan/Movie-Database-System/blob/main/UML.png)
+
+## User Guide
+To open the project, it is important that the php server is up and running in the background. To do that, ensure that php is installed in the computer along with postgresql. The command to run the php server is given below:
+
+```php -S localhost:3000```
+
+Open ```localhost:3000``` and you will find the entire project up and running.
