@@ -1,10 +1,5 @@
 <?php 
 // CONNECT DATABASE
-//$host = "pgsql.hrz.tu-chemnitz.de";
-//$username = "movie_database_rw";
-//$password = "iMu7muchie";
-//$db = "movie_database";
-
 $username = "postgres";
 $password = "borneel1999";
 $db = "database";
