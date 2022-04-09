@@ -16,3 +16,6 @@ To open the project, it is important that the php server is up and running in th
 ```php -S localhost:3000```
 
 Open ```localhost:3000``` and you will find the entire project up and running.
+
+## Demo
+Project Demo:- [Movie Database System - Demo](https://drive.google.com/file/d/1_PSfAoImnVkAO5-VwGmMtt5vrwRK4mn0/view?usp=sharing).
