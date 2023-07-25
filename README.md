@@ -17,3 +17,6 @@ To open the project, it is important that the php server is up and running in th
 
 Open ```localhost:3000``` and you will find the entire project up and running.
 
+## Demo
+You can watch the demo here [Demo](https://drive.google.com/drive/u/1/folders/1Bf6gpFv4upcQVkCD-M0c3BmmsSaITD9Q)
+
